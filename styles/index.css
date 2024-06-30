@@ -94,7 +94,7 @@ section p {
 }
 
 .weather_img {
-    background-image: url(../images/weather.png);
+    background-image: url("../images/weather.png");
     background-size: contain;
     background-repeat: no-repeat;
     width: 68%;
@@ -120,7 +120,7 @@ section p {
 }
 
 .forecast_img {
-    background-image: url(../images/forecast.png);
+    background-image: url("../images/forecast.png");
     background-size: contain;
     background-repeat: no-repeat;
     width: 46%;
@@ -145,7 +145,7 @@ section p {
 }
 
 .account_img {
-    background-image: url(../images/account.png);
+    background-image: url("../images/account.png");
     background-size: contain;
     background-repeat: no-repeat;
     width: 76%;
