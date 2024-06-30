@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(../images/background_image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    background-color: #00aff2;
+    padding: 10px 0;
+    color: white;
+    display: flex;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+footer {
+    background-color: #00aff2;
+    padding: 5px 10px;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul li {
+    margin: 0 15px;
+    justify-items: center;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+header h1 {
+    margin: 0px 10px 0px;
+}
+
+nav ul li a:hover {
+    background-color: #76e0fb;
+    border-radius: 5px;
+}
+
+section {
+    padding: 50px 20px;
+    margin: 20px 0;
+}
+
+section h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+section p {
+    font-size: 1.5em;
+}
+
+.git_button {
+    border: none;
+    border-radius: 9px;
+    padding: 8px;
+    font-size: 15px;
+    background-color: #fff07d;
+    color: blueviolet;
+    cursor: pointer;
+}
