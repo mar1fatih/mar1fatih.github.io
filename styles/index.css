@@ -1,5 +1,6 @@
 body {
     font-family: Arial, sans-serif;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.17);
     margin: 0;
     padding: 0;
     background-image: url(../images/background_image.jpg);
@@ -25,6 +26,10 @@ footer {
     bottom: 0;
     width: 100%;
     text-align: center;
+}
+
+nav {
+    align-content: center;
 }
 
 nav ul {
@@ -57,7 +62,8 @@ nav ul li a:hover {
 
 section {
     padding: 50px 20px;
-    margin: 20px 0;
+    margin: 0;
+    background-color: rgba(255, 255, 255, 0.15);
 }
 
 section h1 {
@@ -77,4 +83,89 @@ section p {
     background-color: #fff07d;
     color: blueviolet;
     cursor: pointer;
+}
+
+.git_button:hover {
+    background-color: #fff5a8
+}
+
+.weather {
+    display: flex;
+}
+
+.weather_img {
+    background-image: url(../images/weather.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 68%;
+    height: 199px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.weather_des {
+    margin-left: 5px;
+}
+
+.weather_des p {
+    font-size: 1em;
+}
+
+.weather_des ul {
+    font-size: 0.8em;
+}
+
+.forecast {
+    display: flex;
+}
+
+.forecast_img {
+    background-image: url(../images/forecast.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 46%;
+    height: 198px;
+    margin-bottom: 15px;
+}
+
+.forecast_des {
+    margin-left: 5px;
+}
+
+.forecast_des p {
+    font-size: 1em;
+}
+
+.forecast_des ul {
+    font-size: 0.8em;
+}
+
+.account {
+    display: flex;
+}
+
+.account_img {
+    background-image: url(../images/account.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 76%;
+    height: 197px;
+}
+
+.account_des {
+    margin-left: 5px;
+}
+
+.account_des p {
+    font-size: 1em;
+}
+
+.account_des ul {
+    font-size: 0.8em;
+}
+
+#home {
+    background-color: rgba(255, 255, 255, 0.15);
+    display: grid;
+    text-align: center;
 }
