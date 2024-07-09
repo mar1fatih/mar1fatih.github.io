@@ -50,6 +50,7 @@ Also you can see the weather in the upcommig 5 days (forecast) if you clicked th
 - Detailed weather forecasts
 - Search history and favorite locations
 
+   ```markdown
 ## Contributing
 
 We welcome contributions to FastWeather! To contribute:
