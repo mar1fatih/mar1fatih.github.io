@@ -36,3 +36,13 @@ To install FastWeather, follow these steps:
 
 To get your city's weather simply type the name of the city in the search box and click Get Weather button:
 ![Alt text](images/home.png)
+
+As you can see after typing the name of the city it will display the weather in details:
+![Alt text](images/weather.png)
+
+## Features
+
+- Real-time weather updates
+- Search by city, state, or country
+- Detailed weather forecasts
+- Search history and favorite locations
