@@ -49,3 +49,19 @@ Also you can see the weather in the upcommig 5 days (forecast) if you clicked th
 - Search by city, state, or country
 - Detailed weather forecasts
 - Search history and favorite locations
+
+## Contributing
+
+We welcome contributions to FastWeather! To contribute:
+- Fork the repository.
+- Create a new branch:
+   ```sh
+   git checkout -b feature-branch
+- Make your changes.
+- Commit your changes:
+   ```sh
+   git commit -m 'Add new feature'
+- Push to the branch:
+   ```sh
+   git push origin feature-branch
+- Open a Pull Request.
