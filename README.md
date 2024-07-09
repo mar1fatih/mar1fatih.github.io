@@ -17,9 +17,10 @@ To install FastWeather, follow these steps:
 
 1. Clone the repository:
    ```sh
-   https://github.com/mar1fatih/FastWeather.git
+   git clone https://github.com/mar1fatih/FastWeather.git
 
 2. Navigate to the project directory:
+   ```sh
    cd fastweather
 
 3. Install the dependencies:
