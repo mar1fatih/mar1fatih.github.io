@@ -50,7 +50,6 @@ Also you can see the weather in the upcommig 5 days (forecast) if you clicked th
 - Detailed weather forecasts
 - Search history and favorite locations
 
-   ```markdown
 ## Contributing
 
 We welcome contributions to FastWeather! To contribute:
@@ -66,3 +65,9 @@ We welcome contributions to FastWeather! To contribute:
    ```sh
    git push origin feature-branch
 - Open a Pull Request.
+
+## License
+
+This project uses the OpenWeatherMap API. Make sure to comply with their terms of service.
+
+This project is a solo effort.
