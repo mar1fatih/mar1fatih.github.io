@@ -24,9 +24,11 @@ To install FastWeather, follow these steps:
    cd fastweather
 
 3. Install the dependencies:
+   ```sh
    pip install -r web_dynamic.requirements.txt
 
 4. Start the application:
+   ```sh
    python3 -m web_dynamic.index
    python3 -m api.v1.app
 
