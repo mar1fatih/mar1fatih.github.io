@@ -21,7 +21,7 @@ To install FastWeather, follow these steps:
 
 2. Navigate to the project directory:
    ```sh
-   cd fastweather
+   cd FastWeather
 
 3. Install the dependencies:
    ```sh
