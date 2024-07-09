@@ -9,7 +9,6 @@ FastWeather is a web application that provides quick and accurate weather update
 3. [Features](#features)
 4. [Contributing](#contributing)
 5. [License](#license)
-6. [Contact Information](#contact-information)
 
 ## Installation
 
@@ -53,18 +52,18 @@ Also you can see the weather in the upcommig 5 days (forecast) if you clicked th
 ## Contributing
 
 We welcome contributions to FastWeather! To contribute:
-- Fork the repository.
-- Create a new branch:
+1. Fork the repository.
+2. Create a new branch:
    ```sh
    git checkout -b feature-branch
-- Make your changes.
-- Commit your changes:
+3. Make your changes.
+4. Commit your changes:
    ```sh
    git commit -m 'Add new feature'
-- Push to the branch:
+5. Push to the branch:
    ```sh
    git push origin feature-branch
-- Open a Pull Request.
+6. Open a Pull Request.
 
 ## License
 
