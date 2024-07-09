@@ -16,6 +16,7 @@ FastWeather is a web application that provides quick and accurate weather update
 To install FastWeather, follow these steps:
 
 1. Clone the repository:
+   ```sh
    https://github.com/mar1fatih/FastWeather.git
 
 2. Navigate to the project directory:
@@ -28,7 +29,7 @@ To install FastWeather, follow these steps:
    python3 -m web_dynamic.index
    python3 -m api.v1.app
 
-### Explain Usage
+## Usage
 
 To get your city's weather simply type the name of the city in the search box and click Get Weather button:
 ![Alt text](images/home.png)
