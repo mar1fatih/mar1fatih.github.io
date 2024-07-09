@@ -40,6 +40,9 @@ To get your city's weather simply type the name of the city in the search box an
 As you can see after typing the name of the city it will display the weather in details:
 ![Alt text](images/weather.png)
 
+Also you can see the weather in the upcommig 5 days (forecast) if you clicked the forecast button:
+![Alt text](images/forecast.png)
+
 ## Features
 
 - Real-time weather updates
